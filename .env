@@ -1,0 +1,1 @@
+GROQ_API_KEY = "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"
